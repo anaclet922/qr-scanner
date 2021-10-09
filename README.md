@@ -1,2 +1,2 @@
 # qr-scanner
-### This is Android app that read qr codes made useing Java Android Studio
+### This is Android app that read qr codes made using Java Android Studio
